@@ -11,7 +11,7 @@
 For this project, I explored what a good analytics PowerPoint presentation should entail. It talks about main talking points, how to tie data to the business value, and much more. 
 
 ---
-#### [Door Dash Analysis](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
+#### [Door Dash Analysis](https://www.linkedin.com/pulse/door-dash-rescue-donna-atkinson)
 [<img src="images/21 Days To Data Challenge What I've Learned Cover.png?raw=true"/>](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
 My final write up for Avery Smith's 21 Days To Data project covering New York City crime data. 
 
