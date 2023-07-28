@@ -25,7 +25,7 @@ What are the top math schools in the state?
 
 - [ReCell: Supervised Learning Project](files/ReCellpresentation.pdf)
 - [E-News: Business Statistics Project](http://example.com/)
-- [Renewind: Model Tuning Project_](files/MT_Projppt.pdf)
+- [Renewind: Model Tuning Project](files/MT_Projppt.pdf)
 
 ---
 
