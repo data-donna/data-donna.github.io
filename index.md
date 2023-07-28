@@ -13,10 +13,6 @@
 
 #### [Education Project](https://www.linkedin.com/pulse/charting-course-excellence-donna-atkinson)
 [<img src="images/MA1.png?raw=true"/>](https://www.linkedin.com/pulse/charting-course-excellence-donna-atkinson)
-In this case study from Data Analytics Accelerator, I was prompted to analyze the State of Massachusetts education data. The main focuses were:
-What schools are struggling the most?
-How does class size affect college admission?
-What are the top math schools in the state? 
 
 ---
 
