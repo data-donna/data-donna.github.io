@@ -21,11 +21,11 @@ What are the top math schools in the state?
 
 ---
 
-### Category Name 2
+### More Projects! 
 
-- [ReCell](files/ReCellpresentation.pdf
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
+- [ReCell: Supervised Learning Project](files/ReCellpresentation.pdf)
+- [E-News: Business Statistics Project](http://example.com/)
+- [MT_](http://example.com/)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
 
