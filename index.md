@@ -16,6 +16,8 @@
 
 ---
 
+#### [World Bank SQL Project](https://www.linkedin.com/pulse/sql-adventure-wild-world-bank-data-donna-atkinson)
+
 ### More Projects! 
 
 - [ReCell: Supervised Learning Project](files/ReCellpresentation.pdf)
