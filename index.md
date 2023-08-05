@@ -17,7 +17,7 @@
 ---
 
 #### [World Bank SQL Project](https://www.linkedin.com/pulse/sql-adventure-wild-world-bank-data-donna-atkinson)
-[<img_src="images/Bank-2.png?raw=true"/>](https://www.linkedin.com/pulse/sql-adventure-wild-world-bank-data-donna-atkinson)
+[<img src="images/Bank-2.png?raw=true"/>](https://www.linkedin.com/pulse/sql-adventure-wild-world-bank-data-donna-atkinson)
 
 
 ### More Projects! 
