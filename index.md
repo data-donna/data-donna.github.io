@@ -22,7 +22,9 @@
 ___
 
 #### [Health Care SQL Project](https://www.linkedin.com/pulse/diagnosing-trends-navigating-healthcare-data-sql-donna-atkinson)
-[<img_src=       [https://www.linkedin.com/pulse/diagnosing-trends-navigating-healthcare-data-sql-donna-atkinson)
+[<img_src="images/Health Care-2.png?raw=true"/>](https://www.linkedin.com/pulse/diagnosing-trends-navigating-healthcare-data-sql-donna-atkinson)
+
+
 ### More Projects! 
 
 - [ReCell: Supervised Learning Project](files/ReCellpresentation.pdf)
