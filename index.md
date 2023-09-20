@@ -5,11 +5,8 @@
 ### Learn About My Projects
 
 
-#### [Froth Flotation Analysis with Python](https://www.linkedin.com/pulse/discovering-froth-flotation-insights-through-data-donna-atkinson%3FtrackingId=HJDeRCR%252Fy9nvDYnFNjsJcQ%253D%253D/?trackingId=HJDeRCR%2Fy9nvDYnFNjsJcQ%3D%3D)
-[<img_src="images/Ironfroth.png?raw=true"/>](https://www.linkedin.com/pulse/discovering-froth-flotation-insights-through-data-donna-atkinson%3FtrackingId=nOib57bwTRufSaDSPF90Nw%253D%253D/?trackingId=nOib57bwTRufSaDSPF90Nw%3D%3D)
-
----
-#### 
+#### [Froth Flotation Analysis with Python](https://www.linkedin.com/pulse/discovering-froth-flotation-insights-through-data-donna-atkinson)
+[<img_src="images/Ironfroth.png?raw=true"/>](https://www.linkedin.com/pulse/discovering-froth-flotation-insights-through-data-donna-atkinson)
 
 ---
 
