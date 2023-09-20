@@ -12,6 +12,7 @@ Explore my data-driven insights, visualizations, and solutions that explore mine
 ---
 #### [Health Care SQL Project](https://www.linkedin.com/pulse/diagnosing-trends-navigating-healthcare-data-sql-donna-atkinson)
 [<img src="images/Health Care-2.png?raw=true"/>](https://www.linkedin.com/pulse/diagnosing-trends-navigating-healthcare-data-sql-donna-atkinson)
+Read my article where I delve into the analysis of patient hospitalization durations, uncovering actionable insights to improve healthcare efficiency and enhance patient well-being.
 
 ---
 #### [World Bank SQL Project](https://www.linkedin.com/pulse/sql-adventure-wild-world-bank-data-donna-atkinson)
