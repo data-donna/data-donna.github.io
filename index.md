@@ -6,8 +6,7 @@
 
 
 #### [Froth Flotation Analysis with Python](https://www.linkedin.com/posts/data-donna_data-dataanalytics-dataanalysis-activity-7108491311925661696-sgzu?utm_source=share&utm_medium=member_desktop)
-[<img_src="images/Ironfroth.png?raw=true"/>](https://www.linkedin.com/posts/data-donna_data-dataanalytics-dataanalysis-activity-7108491311925661696-sgzu?utm_source=share&utm_medium=member_desktop)
-
+[<img_src="images/Ironfroth.png?raw=true"/>](
 ---
 #### 
 
