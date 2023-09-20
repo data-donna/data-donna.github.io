@@ -17,7 +17,7 @@ Read my article where I delve into the analysis of patient hospitalization durat
 ---
 #### [World Bank SQL Project](https://www.linkedin.com/pulse/sql-adventure-wild-world-bank-data-donna-atkinson)
 [<img src="images/Bank-2.png?raw=true"/>](https://www.linkedin.com/pulse/sql-adventure-wild-world-bank-data-donna-atkinson)
-
+In this project, I conducted a SQL analysis of World Bank transactions. Discover my findings where I harness the power of SQL to dissect and interpret global financial data, offering valuable insights into international development, funding allocation, and economic trends."
 ---
 #### [Education Project](https://www.linkedin.com/pulse/charting-course-excellence-donna-atkinson)
 [<img src="images/MA1.png?raw=true"/>](https://www.linkedin.com/pulse/charting-course-excellence-donna-atkinson)
