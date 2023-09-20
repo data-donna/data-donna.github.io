@@ -5,8 +5,9 @@
 ### Learn About My Projects
 
 
-#### [Froth Flotation Analysis with Python](https://www.linkedin.com/pulse/discovering-froth-flotation-insights-through-data-donna-atkinson)
+#### [Froth Flotation Analysis with Python](https://www.linkedin.com/pulse/discovering-froth-flotation-insights-through-data-donna-atkinson) 
 [<img src="images/Ironfroth.png?raw=true"/>](https://www.linkedin.com/pulse/discovering-froth-flotation-insights-through-data-donna-atkinson)
+Explore my data-driven insights, visualizations, and solutions that explore mineral processing and efficiency in mining. 
 
 ---
 #### [Health Care SQL Project](https://www.linkedin.com/pulse/diagnosing-trends-navigating-healthcare-data-sql-donna-atkinson)
