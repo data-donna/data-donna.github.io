@@ -4,6 +4,13 @@
 
 ### Learn About My Projects
 
+
+#### [Froth Flotation Analysis with Python](https://www.linkedin.com/posts/data-donna_data-dataanalytics-dataanalysis-activity-7108491311925661696-sgzu?utm_source=share&utm_medium=member_desktop)
+[<img_src="
+
+---
+#### 
+
 ---
 
 #### [Door Dash Analysis](https://www.linkedin.com/pulse/door-dash-rescue-donna-atkinson)
