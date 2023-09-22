@@ -10,7 +10,7 @@
 Explore my data-driven insights, visualizations, and solutions that explore mineral processing and efficiency in mining. 
 
 ---
-####[HR Attrition with R](https://www.linkedin.com/pulse/decoding-employee-departures-donna-atkinson)
+#### [HR Attrition with R](https://www.linkedin.com/pulse/decoding-employee-departures-donna-atkinson)
 [<img src="images/HR Attrition Rates with R.png?raw=true"/>](https://www.linkedin.com/pulse/discovering-froth-flotation-insights-through-data-donna-atkinson)
 
 ---
