@@ -7,8 +7,7 @@
 
 #### [Froth Flotation Analysis with Python](https://www.linkedin.com/pulse/discovering-froth-flotation-insights-through-data-donna-atkinson) 
 [<img src="images/Ironfroth.png?raw=true"/>](https://www.linkedin.com/pulse/discovering-froth-flotation-insights-through-data-donna-atkinson)
-Explore my data-driven insights, visualizations, and solutions that explore mineral processing and efficiency in mining. 
-
+Interpreted manufacturing time series data to check for anomalies & correlations.
 ---
 #### [HR Attrition with R](https://www.linkedin.com/pulse/decoding-employee-departures-donna-atkinson)
 [<img src="images/HR Attrition Rates with R.png?raw=true"/>](https://www.linkedin.com/pulse/discovering-froth-flotation-insights-through-data-donna-atkinson)
