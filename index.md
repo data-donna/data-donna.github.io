@@ -44,6 +44,9 @@ Analyzed 2000+ customers across 6 different marketing campaigns.
 
 ---
 
+### My Resume
+- [Resume]
+
 
 
 
