@@ -45,7 +45,7 @@ Analyzed 2000+ customers across 6 different marketing campaigns.
 ---
 
 ### MY RESUME! 
-- [Resume](files/DonnaLarueAtkinsonResume (dragged).pdf)
+- [Resume](files/DonnaLaRueAtkinsonResume.pdf)
   
 
 
